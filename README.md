@@ -13,5 +13,6 @@ python train.py
 python eval.py
 ```
 
+Sample results on random images from google
 
 ![Screenshot](caption_result.PNG)
