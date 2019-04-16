@@ -1,4 +1,4 @@
-# image_captioning
+# Image Captioning using CNN and LSTMs
 An implementation of image captioning
 
 
