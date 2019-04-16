@@ -1,7 +1,8 @@
 # image_captioning
 An implementation of image captioning
-First complete preprocessing to generate the tokens.
 
+
+First complete preprocessing to generate the tokens.
 ```
 python preprocessing.py 
 ```
