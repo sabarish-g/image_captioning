@@ -1,5 +1,7 @@
 # Image Captioning using CNN and LSTMs
-An implementation of image captioning
+An implementation of image captioning.
+
+The model uses the Flickr8k dataset. The training set has 6k images and 5 captions for every image. The test and validation have 1k images with 5 captions each. The dataset can be downloaded at https://forms.illinois.edu/sec/1713398 .
 
 
 First complete preprocessing to generate the tokens.
